@@ -1,6 +1,6 @@
 Gem::Specification.new do |gem|
-  gem.name    = 'votable_ant'
-  gem.version = '0.1.0'
+  gem.name    = 'voteable_ant'
+  gem.version = '0.2.0'
   gem.date    = Date.today.to_s
 
   gem.summary = "Add voting capabilities to your models."
